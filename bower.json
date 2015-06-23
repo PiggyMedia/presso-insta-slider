@@ -1,0 +1,10 @@
+{
+  "name": "warehousefestival-insta-slider",
+  "version": "1.0.0",
+  "authors": [
+    "tcarlsen <thomascarlsen86@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery-instagram": "~0.3.1"
+  }
+}
